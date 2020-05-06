@@ -1,0 +1,15 @@
+C:\Users\Osipov\OneDrive - УрФУ\WPF\EllipseTimerAnimation\EllipseTimerAnimation\obj\Debug\EllipseTimerAnimation.csprojAssemblyReference.cache
+C:\Users\Osipov\OneDrive - УрФУ\WPF\EllipseTimerAnimation\EllipseTimerAnimation\obj\Debug\MainWindow.g.cs
+C:\Users\Osipov\OneDrive - УрФУ\WPF\EllipseTimerAnimation\EllipseTimerAnimation\obj\Debug\App.g.cs
+C:\Users\Osipov\OneDrive - УрФУ\WPF\EllipseTimerAnimation\EllipseTimerAnimation\obj\Debug\EllipseTimerAnimation_MarkupCompile.cache
+C:\Users\Osipov\OneDrive - УрФУ\WPF\EllipseTimerAnimation\EllipseTimerAnimation\obj\Debug\EllipseTimerAnimation_MarkupCompile.lref
+C:\Users\Osipov\OneDrive - УрФУ\WPF\EllipseTimerAnimation\EllipseTimerAnimation\bin\Debug\EllipseTimerAnimation.exe.config
+C:\Users\Osipov\OneDrive - УрФУ\WPF\EllipseTimerAnimation\EllipseTimerAnimation\bin\Debug\EllipseTimerAnimation.exe
+C:\Users\Osipov\OneDrive - УрФУ\WPF\EllipseTimerAnimation\EllipseTimerAnimation\bin\Debug\EllipseTimerAnimation.pdb
+C:\Users\Osipov\OneDrive - УрФУ\WPF\EllipseTimerAnimation\EllipseTimerAnimation\obj\Debug\MainWindow.baml
+C:\Users\Osipov\OneDrive - УрФУ\WPF\EllipseTimerAnimation\EllipseTimerAnimation\obj\Debug\EllipseTimerAnimation.g.resources
+C:\Users\Osipov\OneDrive - УрФУ\WPF\EllipseTimerAnimation\EllipseTimerAnimation\obj\Debug\EllipseTimerAnimation.Properties.Resources.resources
+C:\Users\Osipov\OneDrive - УрФУ\WPF\EllipseTimerAnimation\EllipseTimerAnimation\obj\Debug\EllipseTimerAnimation.csproj.GenerateResource.cache
+C:\Users\Osipov\OneDrive - УрФУ\WPF\EllipseTimerAnimation\EllipseTimerAnimation\obj\Debug\EllipseTimerAnimation.csproj.CoreCompileInputs.cache
+C:\Users\Osipov\OneDrive - УрФУ\WPF\EllipseTimerAnimation\EllipseTimerAnimation\obj\Debug\EllipseTimerAnimation.exe
+C:\Users\Osipov\OneDrive - УрФУ\WPF\EllipseTimerAnimation\EllipseTimerAnimation\obj\Debug\EllipseTimerAnimation.pdb
